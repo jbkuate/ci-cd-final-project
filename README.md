@@ -3,7 +3,7 @@
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 #Project name
-The name of this project is ci-cd-final-project
+ci-cd-final-project
 
 ## Usage
 
